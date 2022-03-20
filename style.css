@@ -1,0 +1,29 @@
+.menu {
+    list-style: none;
+color:#79e7e7;
+font-family: fantasy;
+margin-top: 10px;
+margin-left: 390px;
+z-index: 10;
+cursor: pointer;
+
+
+}
+
+    .links {
+        float: left;
+    padding: 10px;
+}
+
+.links:hover {
+    color:#270101;
+    font-size:larger;
+    font-family:'Times New Roman', Times, serif;
+}
+
+body{
+    background: linear-gradient(#c585ed 0%, #92cae0 100%);
+}
+table, th, td {
+    border:1px solid black;
+  }
